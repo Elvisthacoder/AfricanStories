@@ -1,2 +1,3 @@
 # AfricanStories
-short african stories
+*short african stories*
+> __an african short stories website__
