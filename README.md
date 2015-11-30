@@ -1,3 +1,3 @@
 # AfricanStories
 *short african stories*
-> __an african short stories website__
+> __An african short stories website__
